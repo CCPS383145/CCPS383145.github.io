@@ -6,17 +6,22 @@ ul { color: #FF00FF;
   font-size: 14pt;
 }
 
-ol {
+ol { color: #FF00FF;
+  font-size: 14pt;
 }
 
-h1 {  
+h1 {  color: #4682B4;
+  font-family: Garamond; 
 }
 
-header { 
+header { color: #4682B4;
+  font-family: Garamond;
 }
 
-body {  
+body { color: #191970;
+   font-size: 20pt;
 }
 
-footer {
+footer { color: #4682B4;
+  font-family: Garamond;
 }

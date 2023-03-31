@@ -1,7 +1,9 @@
-p {
+p { color: #800000;
+  font-size: 20pt;
 }
 
-ul {  
+ul { color: #FF00FF;
+  font-size: 14pt;
 }
 
 ol {
